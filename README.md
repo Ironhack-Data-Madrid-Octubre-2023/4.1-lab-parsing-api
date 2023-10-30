@@ -2,7 +2,7 @@
 
 # Lab | Parsing API Data
 
-## Introduction
+## Introduction.
 
 In the Parsing API Data lesson, you learned how to parse data from API, explore and extract json file, and structure it in DataFrames.
 
