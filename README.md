@@ -4,6 +4,7 @@
 
 ## Introduction
 
+
 In the Parsing API Data lesson, you learned how to parse data from API, explore and extract json file, and structure it in DataFrames.
 
 In this lab there are two challenges. In the first challenge you'll take a guided lesson that shows you the complete workflow of querying data from an API and parsing them. In the second challenge you'll follow the example from the guided lesson to develop your own codes that parse another API.
