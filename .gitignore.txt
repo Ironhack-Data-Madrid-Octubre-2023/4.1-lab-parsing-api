@@ -1,1 +1,2 @@
 *.txt
+/your-code/.ipynb_checkpoints
